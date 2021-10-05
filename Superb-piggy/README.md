@@ -22,11 +22,11 @@ Git的安装
 
 不过现在的我还什么都不会写。在我的认真学习下，**常用的linux命令语言**轻易进入我的脑中。如下![QQ图片20211004191238](C:\Users\lenovo\Desktop\QQ图片20211004191238.png)
 
-接下来就是命令的实操啦！![notepad1633346075630](C:\Users\lenovo\Desktop\notepad1633346075630.jpg)
+接下来就是命令的实操啦！![notepad1633346075630.jpg](https://i.loli.net/2021/10/05/BMc186UPmeOFIAa.jpg)
 
 分别是<u>创建index.js文件</u>，<u>删除index.js文件</u>，<u>创建A.doc文件</u>，<u>将A.doc文件移入超级小猪文件夹</u>内，过多的未再展示。
 
-![1e258035dbbfff0c](C:\Users\lenovo\Desktop\1e258035dbbfff0c.jpg)（其实目录的更换搞了很久，不知道最前面要加/)
+![1e258035dbbfff0c.jpg](https://i.loli.net/2021/10/05/SvoXyfHhVY5Br3Q.jpg)（其实目录的更换搞了很久，不知道最前面要加/)
 
 ## Git的配置
 
@@ -56,7 +56,7 @@ Git的安装
 
 总算有点成效辽！！继续努力！
 
-![bcd4ded4f437358](C:\Users\lenovo\Desktop\bcd4ded4f437358.jpg)
+![bcd4ded4f437358.jpg](https://i.loli.net/2021/10/05/iyzUYWw34aJB5XV.jpg)
 
 ## Git的仓库创建和克隆
 
