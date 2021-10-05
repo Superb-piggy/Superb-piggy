@@ -42,7 +42,7 @@ Git的安装
 | --------------------------------------------------------- |
 | **git config ``-``-``global` `user.email ``"Your eamil**" |
 
-以下为成果展示![notepad1633347101448](C:\Users\lenovo\Desktop\notepad1633347101448.jpg)
+以下为成果展示![notepad1633347101448.jpg](https://i.loli.net/2021/10/05/hNOBWF2aZSIrQod.jpg)
 
 
 
