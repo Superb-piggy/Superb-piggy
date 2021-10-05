@@ -96,11 +96,11 @@ SSH公钥配置完成后输入ssh-Tgit@github.com进行验证
 
 首先你要在Github上创建一个仓库
 
-![notepad1633351668079](C:\Users\lenovo\Desktop\notepad1633351668079.jpg)
+![QQ图片20211005122137.png](https://i.loli.net/2021/10/05/6F24JnAwy7KbDgz.png)
 
 此时你的本地仓库和远程仓库都有了，只需要在gitbash里输入git remote add origin git@github.com：<github用户名>/<远程仓库名称>.git进行绑定
 
-![notepad1633351954324](C:\Users\lenovo\Desktop\notepad1633351954324.jpg)
+![QQ图片20211005122300.png](https://i.loli.net/2021/10/05/cwCuiOrBnyj3W29.png)
 
 （我的已经绑定过了）
 
@@ -116,9 +116,9 @@ Push前
 
 Push后
 
-以上仅仅展现了前后变化，而在其中会遇到各种问题，比如![notepad1633352251363](C:\Users\lenovo\Desktop\notepad1633352251363.jpg)
+以上仅仅展现了前后变化，而在其中会遇到各种问题，比如![QQ图片20211005122345.png](https://i.loli.net/2021/10/05/rpW8sJoyfv7Q4ZN.png)
 
-解决办法![notepad1633352256358](C:\Users\lenovo\Desktop\notepad1633352256358.jpg)
+解决办法![QQ图片20211005122402.png](https://i.loli.net/2021/10/05/d1gpaOwFCnAVjRu.png)
 
 除此之外还有分支对应不上等问题，不一一列举。
 
