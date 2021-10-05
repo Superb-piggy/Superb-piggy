@@ -66,7 +66,7 @@ Git的安装
 
 ## Git的基本操作命令
 
-我们在git里面创建一个文件后输入git status可得知它是untracked状态，add后变为to be committed 然后commit到仓库。（上面有谈到add commit push等操作，不再多讲）除此之外还讲了一个忽略文件，就是提交时可以排除一些文件使其不被提交。在视频讲解![QQ图片20211004202951.png](https://i.loli.net/2021/10/05/cPitZDrnX9lGUSI.png)中没太听懂，在百度博客中提到要先创建一个.ignore文件然后在文件里面输入一些文件后缀等就可达到目的。我照着步骤做了下去![notepad1633350824796](C:\Users\lenovo\Desktop\notepad1633350824796.jpg)
+我们在git里面创建一个文件后输入git status可得知它是untracked状态，add后变为to be committed 然后commit到仓库。（上面有谈到add commit push等操作，不再多讲）除此之外还讲了一个忽略文件，就是提交时可以排除一些文件使其不被提交。在视频讲解![QQ图片20211004202951.png](https://i.loli.net/2021/10/05/cPitZDrnX9lGUSI.png)中没太听懂，在百度博客中提到要先创建一个.ignore文件然后在文件里面输入一些文件后缀等就可达到目的。我照着步骤做了下去!![notepad1633350824796.jpg](https://i.loli.net/2021/10/05/tdVuJx1GPKYNTa2.jpg)
 
 我也不懂这是什么，先照着做以后再讲吧。（现在处于一个不理解事情本质却还在不断学习前行的状态，心中还是非常难受的）
 
