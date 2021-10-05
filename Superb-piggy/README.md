@@ -50,8 +50,7 @@ Git的安装
 
 今天学习了Git的工作原理，大概的结构图如下：![notepad1633347689092.jpg](https://i.loli.net/2021/10/05/g59VrtNSKqv8aPB.jpg)
 
-如图可见git有工作区，暂存区，仓库和远程仓库。工作区文件git add 可添加到暂存区，暂存区git commit添加到仓库，仓库内git push到远程仓库。期间可用git status来查看此时所处的状态，比如有多少文件处于待commit状态等。（要先git init 初始化建立本地端仓库）以下为成果展示（git push在后展示）![notepad1633349751942](C:\Users\lenovo\Desktop\notepad1633349751942.jpg)
-
+如图可见git有工作区，暂存区，仓库和远程仓库。工作区文件git add 可添加到暂存区，暂存区git commit添加到仓库，仓库内git push到远程仓库。期间可用git status来查看此时所处的状态，比如有多少文件处于待commit状态等。（要先git init 初始化建立本地端仓库）以下为成果展示（git push在后展示）[![4j6jhD.jpg](https://z3.ax1x.com/2021/10/05/4j6jhD.jpg)](https://imgtu.com/i/4j6jhD)
 
 
 总算有点成效辽！！继续努力！
