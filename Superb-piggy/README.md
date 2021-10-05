@@ -82,15 +82,11 @@ Git的安装
 
 将这一串信息复制到目标模板即可配置成功。
 
-![notepad1633351113086](C:\Users\lenovo\Desktop\notepad1633351113086.jpg)
-
 ![6.png](https://i.loli.net/2021/10/05/IvH7GVPErKcxtJ1.png)
 
 SSH公钥配置完成后输入ssh-Tgit@github.com进行验证
 
-![notepad1633351371815](C:\Users\lenovo\Desktop\notepad1633351371815.jpg)
-
-成功啦成功啦！
+成功啦成功啦！(图片忘记存了...）
 
 ## 远程仓库的配置
 
