@@ -74,17 +74,17 @@ Git的安装
 
 由于我看的教程是gitee版的，所以我在了解大概过程后自己去摸索github怎么配置SSH公钥。首先要创建.ssh文件夹，具体做法是输入命令mkdir～/.ssh （弹幕学习）
 
-![notepad1633351019404](C:\Users\lenovo\Desktop\notepad1633351019404.jpg)
+![4.png](https://i.loli.net/2021/10/05/9uKdFVOAL4Us71H.png)
 
 然后在你的目录（比较重要的一个点）里输入密钥生成命令ssh-keygen -t rsa，然后会发现在.ssh里出现了两个文件，然后将公钥注册到github里面。看视频和网站上讲出现的两个文件一个是pub一个没有，而我的则两个都没有，我非常懵，随便打开一个发现是一堆乱码，复制粘贴后提示invalid，摸索一番后将一个文件更换打开方式才得到正确信息
 
-![notepad1633351109926](C:\Users\lenovo\Desktop\notepad1633351109926.jpg)
+![3.png](https://i.loli.net/2021/10/05/wM8hDJIYLjdz5Hx.png)
 
 将这一串信息复制到目标模板即可配置成功。
 
 ![notepad1633351113086](C:\Users\lenovo\Desktop\notepad1633351113086.jpg)
 
-![notepad1633351115652](C:\Users\lenovo\Desktop\notepad1633351115652.jpg)
+![6.png](https://i.loli.net/2021/10/05/IvH7GVPErKcxtJ1.png)
 
 SSH公钥配置完成后输入ssh-Tgit@github.com进行验证
 
