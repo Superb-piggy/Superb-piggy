@@ -20,7 +20,7 @@ Git的安装
 
 打开git bash 果然是一片黑——正常的代码编写页面。
 
-不过现在的我还什么都不会写。在我的认真学习下，**常用的linux命令语言**轻易进入我的脑中。如下![QQ图片20211004191238](C:\Users\lenovo\Desktop\QQ图片20211004191238.png)
+不过现在的我还什么都不会写。在我的认真学习下，**常用的linux命令语言**轻易进入我的脑中。如下[![4j6q76.png](https://z3.ax1x.com/2021/10/05/4j6q76.png)](https://imgtu.com/i/4j6q76)
 
 接下来就是命令的实操啦！![notepad1633346075630.jpg](https://i.loli.net/2021/10/05/BMc186UPmeOFIAa.jpg)
 
