@@ -103,11 +103,11 @@ SSH公钥配置完成后输入ssh-Tgit@github.com进行验证
 
 ## Push的实际操作
 
-![notepad1633352127059](C:\Users\lenovo\Desktop\notepad1633352127059.jpg)
+[![4jckAf.jpg](https://z3.ax1x.com/2021/10/05/4jckAf.jpg)](https://imgtu.com/i/4jckAf)
 
 Push前
+[![4jcKun.jpg](https://z3.ax1x.com/2021/10/05/4jcKun.jpg)](https://imgtu.com/i/4jcKun)
 
-![notepad1633352135090](C:\Users\lenovo\Desktop\notepad1633352135090.jpg)
 
 Push后
 
