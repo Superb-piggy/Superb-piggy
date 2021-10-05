@@ -6,7 +6,7 @@
  此外为了有助于理解，又研究了三种版本控制系统——本地，集中，和分布式。而git属于第三种，也是目前**最先进**的一种**版本控制系统**。
  视频中还介绍了git的开发历史，我了解到**李纳斯**在两周内将git开发完毕（<u>太强了</u>）冗杂的过程不再讲述。
 
-此时对Git一知半解的我：![15b58f325fd4c54a](https://github.com/Superb-piggy/Superb-piggy/blob/master/%E5%9B%BE%E7%89%87/15b58f325fd4c54a.png)
+此时对Git一知半解的我：![15b58f325fd4c54a.png](https://i.loli.net/2021/10/05/EY69bFB1tewKvmU.png)
 
 Git的安装
 
